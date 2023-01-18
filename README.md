@@ -1,2 +1,4 @@
 # Project-Thumbnails-PDF-version-display
-这是我的作品集简介 (PDF版本的略缩图)，感谢您的观看
+这是我的项目缩略图展示 (PDF版本)
+具体的项目及代码已放置相应文件夹
+感谢您的观看
